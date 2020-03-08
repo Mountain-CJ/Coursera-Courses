@@ -1,0 +1,6 @@
+Module 6: Vehicle Lateral Control
+KEY CONCEPTS
+Define the geometry of the lateral control problem, including heading and cross track errors
+Design a geometric steering controller to track a straight line segment
+Identify the limits of geometric controllers as wheel slip increases
+Explore options for dynamic control, including model predictive control
