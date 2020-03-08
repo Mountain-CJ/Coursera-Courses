@@ -1,0 +1,6 @@
+Module 4: Vehicle Dynamic Modeling
+KEY CONCEPTS
+Develop a kinematic bicycle model of a car with velocity and steering angle inputs
+Develop a dynamic bicycle models of a car with velocity and steering angle inputs
+Differentiate between models of tire forces
+Develop a model for actuation in a car, from pedal and steering wheel to tire forces
