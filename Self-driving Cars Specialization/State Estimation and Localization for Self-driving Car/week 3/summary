@@ -1,0 +1,7 @@
+Module 3: GNSS/INS Sensing for Pose Estimation
+KEY CONCEPTS
+Explain the operation of the two most common sensors used for pose estimation in autonomous driving, inertial meaurement units and GNSS receivers.
+Understand the concept of coordinate acceleration and the fundamental equation of inertial navigation.
+Apply gyroscope and accelerometer measurement models in the context of navigation.
+Describe the process of trilateration and justify why four satellites must be visible to obtain a 3D position fix from a GPS (GNSS) receiver.
+Understand why ionospheric delays and multipath effects can degrade the performance of GPS.
