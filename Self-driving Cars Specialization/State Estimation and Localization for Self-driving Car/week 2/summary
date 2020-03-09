@@ -1,0 +1,8 @@
+Module 2: State Estimation - Linear and Nonlinear Kalman Filters
+KEY CONCEPTS
+Describe the relationship between least squares and the linear Kalman filter
+Explain the (in)sensitivity of the Kalman filter to new data and the need for process noise
+Describe how the linear Kalman filter can be extended to nonlinear systems via linearization
+Describe how the EKF uses first-order linearization to turn a nonlinear problem into a linear one
+Contrast the linearization approach of the EKF with that of the UKF, and explain why the UKF is superior for many problems
+Assess the performance of the extended Kalman filter and its variants
