@@ -1,0 +1,8 @@
+Module 7: Putting it all together - Smooth Local Planning
+KEY CONCEPTS
+Recall the definition of parametric curves, motion planning constraints, and motion planning boundary conditions.
+Understand the differences between spirals and splines, and the tradeoffs of using either.
+Design optimization objectives suited to particular motion planning tasks.
+Use Python libraries to solve optimization problems.
+Implement a conformal lattice planner based on polynomial spiral optimization.
+Compute a velocity profile constrained by curvature, speed limits, and dynamic obstacles.
