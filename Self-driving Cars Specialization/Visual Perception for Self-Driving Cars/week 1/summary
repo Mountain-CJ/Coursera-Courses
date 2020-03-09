@@ -5,3 +5,12 @@ monocular and stereo vision, projective geometry, and convolution operations.
 KEY CONCEPTS
 Review the layout of the courses in the Specialization
 Review the main projects offered in this course
+
+
+Module 1: Basics of 3D Computer Vision
+KEY CONCEPTS
+Build a pinhole camera model and define the model parameters to be found in calibration
+Define the projective geometry required to interpret points in 3D as observed in the image plane
+Formulate the equations and constraints for stereo sensors
+Compute disparity from rectified images
+Understand cross-correlation, convolutions, the difference between them, and what they are used for
