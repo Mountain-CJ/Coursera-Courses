@@ -1,0 +1,5 @@
+Module 5: Putting It together - An Autonomous Vehicle State Estimator
+KEY CONCEPTS
+Apply filtering-based state estimation to determine the pose of a vehicle on the roadway
+Use LIDAR scan registration (to an existing map) to improve state estimates
+Test the effects of the loss of one or more sensors on the vehicle pose estimate
