@@ -1,0 +1,7 @@
+Module 1: Least Squares
+KEY CONCEPTS
+Understand the squared error optimization criterion and its use
+Explain how least squares is employed in parameter estimation problems
+Apply the unweighted and weighted least squares methods to parameter estimation
+Apply a recursive version of least squares to update parameter estimates as new measurements arrive
+Explain how Jacobian matrices are used
