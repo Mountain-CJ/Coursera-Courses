@@ -1,0 +1,6 @@
+Module 4: Dynamic Object Interactions
+KEY CONCEPTS
+Recall the different types of motion prediction assumptions, and the differences between them.
+Understand how map knowledge can be used for prediction.
+Understand how multi-hypothesis prediction can be used to predict multiple behaviours.
+Compute Time-to-Collision (TTC) through estimation and simulation methods.
