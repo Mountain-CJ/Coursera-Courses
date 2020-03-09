@@ -1,0 +1,6 @@
+Module 2: Mapping for Planning
+KEY CONCEPTS
+Create an occupancy grid map to identify static obstacles in the environment.
+Apply the log odds update to efficiently update occupancy beliefs.
+Apply filtering and compression to map 3D lidar scans to 2D occupancy grids.
+Understand the impact of dynamic obstacles on occupancy grids.
