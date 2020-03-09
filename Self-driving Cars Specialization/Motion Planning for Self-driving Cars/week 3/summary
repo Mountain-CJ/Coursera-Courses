@@ -1,0 +1,7 @@
+Module 3: Mission Planning in Driving Environments
+KEY CONCEPTS
+Recall the mathematical concept of a graph.
+Understand how graphs can be used to represent road networks.
+Apply Breadth First Search (BFS) to an unweighted graph to find the shortest path to a destination.
+Apply Dijkstra's Search to a weighted graph for finding the shortest path in a more realistic road network.
+Apply heuristics through A* Search to improve shortest path search speed.
