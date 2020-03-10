@@ -1,0 +1,23 @@
+By the end of this module, you should have achieved the following learning objectives:
+
+Lesson 1: Policy Evaluation (Prediction)
+
+Understand the distinction between policy evaluation and control
+
+Explain the setting in which dynamic programming can be applied, as well as its limitations
+
+Outline the iterative policy evaluation algorithm for estimating state values under a given policy
+
+Apply iterative policy evaluation to compute value functions
+
+Lesson 2: Policy Iteration (Control)
+
+Understand the policy improvement theorem
+
+Use a value function for a policy to produce a better policy for a given MDP
+
+Outline the policy iteration algorithm for finding the optimal policy
+
+Understand “the dance of policy and value”
+
+Apply policy iteration to compute optimal policies and optimal value functions
